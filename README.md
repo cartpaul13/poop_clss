@@ -1,4 +1,4 @@
-# Reviewty Labs Services Codebase Structure
+# Reviewty Labs Services Codebase Structure.
 
 	./
 	├─ common
